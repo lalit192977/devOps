@@ -14,6 +14,21 @@ This repository serves as a centralized place for all my DevOps-related learning
 
 ---
 
+## **Branches Overview 🌿**
+
+Each branch in this repository focuses on a specific topic. Here's a breakdown:
+
+### 1. **`git`**
+   - Mastering Git and GitHub for version control.
+   - Topics:
+     - Git basics (commit, push, pull, merge)
+     - Branching and merging strategies
+     - Resolving merge conflicts
+     - GitHub workflows (pull requests, issues, etc.)
+
+     
+---
+
 ## **How to Use This Repository**
 1. **Explore Branches:** Each branch focuses on a specific topic. Check out the branch you're interested in to see notes, scripts, and projects.
 2. **Contribute:** If you have suggestions, improvements, or additional resources, feel free to open an issue or submit a pull request.
