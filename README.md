@@ -26,7 +26,18 @@ Each branch in this repository focuses on a specific topic. Here's a breakdown:
      - Resolving merge conflicts
      - GitHub workflows (pull requests, issues, etc.)
 
-     
+### 2. **`linux`**
+  - - Learning Linux fundamentals, commands.
+   - Topics:
+     - File and Directory Management
+     - File Operations
+     - File Permissions and Ownership
+     - Compression and Archiving
+     - Disk and Storage Management
+     - Process Management
+     - User Management
+     - Package Management
+     - Networking Commands
 ---
 
 ## **How to Use This Repository**
