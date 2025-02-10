@@ -180,8 +180,39 @@ Changes user password
 9. usermod -aG sudo newuser
 Modifies user details
 
-10. sudo deluser newuser
+10. sudo useradd <user>
+to add user
+
+11. sudo passwd <user>
+set password to the user
+
+12. passwd
+to change the password of the current user
+
+13. sudo deluser newuser
 Deletes a user
+
+14. sudo groupadd <group>
+to add a group
+
+15. sudo groupdel <group>
+to delete the group
+
+16. sudo gpasswd -a <user> group
+to add user to a group
+
+17. sudo gpasswd -M <user1, user2> group
+adding multiple user to a group
+
+18. sudo gpasswd -d <user> group
+to delete a user from the group
+
+19. cat /etc/passwd
+to see the list of the users
+
+20. cat /etc/group
+to see the list of the group
+
 ```
 
 
